@@ -1,0 +1,19 @@
+Básico:
+    Fundamentals of Python First Programs, 2Ed - Kenneth A. Lambert
+    Beginning Python - From Novice to Professional, 3Ed - Magnus Lie Hetland
+    Learn to Program with Python - Irv Kalb
+    Lean Python - Paul Gerrard
+    Mastering Python - Rick van Hattem
+    
+    Python Cookbook, Third Edition, by David Beazley and Brian K. Jones (O’Reilly)
+    Effective Python by Brett Slatkin (Pearson)
+    Fluent Python (Early Release) - Luciano Ramalho
+
+Análise de Dados
+    Python Data Science Handbook - Jake VanderPlas
+    Python for Data Analysis, 2Ed - Wes McKinney
+
+    Foundations for Analytics with Python - Clinton W. Brownley    
+    Data Science from Scratch - Joel Grus
+    Python Data Analysis Cookbook - Ivan Idris
+    Python Data Analysis - Ivan Idris
