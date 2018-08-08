@@ -17,3 +17,7 @@ Análise de Dados
     Data Science from Scratch - Joel Grus
     Python Data Analysis Cookbook - Ivan Idris
     Python Data Analysis - Ivan Idris
+
+
+Machine Learning
+    Machine Learning - Tom Mitchell (teoria pura)
