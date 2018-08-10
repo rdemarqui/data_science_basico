@@ -12,11 +12,12 @@ Básico:
 Análise de Dados
     Python Data Science Handbook - Jake VanderPlas
     Python for Data Analysis, 2Ed - Wes McKinney
+    Python Data Analysis - Ivan Idris
 
     Foundations for Analytics with Python - Clinton W. Brownley    
     Data Science from Scratch - Joel Grus
     Python Data Analysis Cookbook - Ivan Idris
-    Python Data Analysis - Ivan Idris
+    
 
 
 Machine Learning
