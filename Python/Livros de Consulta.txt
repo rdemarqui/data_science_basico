@@ -22,3 +22,6 @@ Análise de Dados
 
 Machine Learning
     Machine Learning - Tom Mitchell (teoria pura)
+    Building Machine Learning Systems With Python
+    Mastering Machine Learning with scikit-learn - Gavin Hackeling
+    Learning scikit-learn, Machine Learning in Python - Raúl Garreta
