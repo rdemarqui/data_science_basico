@@ -25,3 +25,5 @@ Machine Learning
     Building Machine Learning Systems With Python
     Mastering Machine Learning with scikit-learn - Gavin Hackeling
     Learning scikit-learn, Machine Learning in Python - Raúl Garreta
+    Data Mining: Practical Machine Learning Tools and Techniques - Ian H. Witten, Eibe Frank
+    Pattern Recognition and Machine Learning - Christopher M. Bishop
