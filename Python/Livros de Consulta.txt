@@ -29,7 +29,7 @@ Machine Learning
     Python Machine Learning - Sebastian Raschka
     Hands-On Machine Learning with Scikit-Learn and TensorFlow - Aurélien Géron
 
-    
+    Understanding Machine Learning - Shai Shalev-Shwartz and Shai Ben-David (Teoria. Usado pela USP)
     Building Machine Learning Systems With Python
     Machine Learning: A Probabilistic Perspective - Kevin Murphy
     Data Mining: Practical Machine Learning Tools and Techniques - Ian H. Witten, Eibe Frank
