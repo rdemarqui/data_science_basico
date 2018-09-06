@@ -28,6 +28,7 @@ Machine Learning
     Mastering Machine Learning with scikit-learn - Gavin Hackeling
     Python Machine Learning - Sebastian Raschka
     Hands-On Machine Learning with Scikit-Learn and TensorFlow - Aurélien Géron
+    Data Science from Scratch - Joel Grus
 
     Understanding Machine Learning - Shai Shalev-Shwartz and Shai Ben-David (Teoria. Usado pela USP)
     Building Machine Learning Systems With Python
