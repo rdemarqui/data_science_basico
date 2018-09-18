@@ -26,10 +26,11 @@ Machine Learning
     Introduction to Machine Learning with Python (Early Release) - Andreas Mueller & Sarah Guido
     Learning scikit-learn, Machine Learning in Python - Raúl Garreta
     Mastering Machine Learning with scikit-learn - Gavin Hackeling
+    Thoughtful Machine Learning with Python - Matthew Kirk
     Python Machine Learning - Sebastian Raschka
     Hands-On Machine Learning with Scikit-Learn and TensorFlow - Aurélien Géron
+    	
     Data Science from Scratch - Joel Grus
-
     Understanding Machine Learning - Shai Shalev-Shwartz and Shai Ben-David (Teoria. Usado pela USP)
     Building Machine Learning Systems With Python
     Machine Learning: A Probabilistic Perspective - Kevin Murphy
