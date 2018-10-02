@@ -25,11 +25,14 @@ Machine Learning
     Learning scikit-learn, Machine Learning in Python - Raúl Garreta
     Hands-On Machine Learning with Scikit-Learn and TensorFlow - Aurélien Géron  (mais avançado)
     Mastering Machine Learning with scikit-learn - Gavin Hackeling
-    Thoughtful Machine Learning with Python - Matthew Kirk
+    Thoughtful Machine Learning with Python - Matthew Kirk (Um pouco mais de teoria)
     Python Machine Learning - Sebastian Raschka
     Python for Probability, Statistics, and Machine Learning - Joseé Unpingco
 
     Real-World Machine Learning (Introdutório/revisão/exemplos práticos)
+
+Notas: Hands-on Machine Learning: Cross-validation, grid search e métodos ensamble. Boosting: AdaBoost e Gradient Boosting. Stacking
+Pipeline. Confusion Matrix
 
 Data Visualisation
     The Visual Display of Quantitative Information - Edward Tufte (clássico)
