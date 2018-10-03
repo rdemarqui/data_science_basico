@@ -31,8 +31,8 @@ Machine Learning
 
     Real-World Machine Learning (Introdutório/revisão/exemplos práticos)
 
-Notas: Hands-on Machine Learning: Cross-validation, grid search e métodos ensamble. Boosting: AdaBoost e Gradient Boosting. Stacking
-Pipeline. Confusion Matrix
+Notas: Hands-on Machine Learning: Cross-validation, grid search e métodos ensamble. Bagging; Boosting: AdaBoost e Gradient Boosting. 
+Stacking Pipeline. Confusion Matrix; Feature Engeneering (Python Data Science Handbook, pg 275)
 
 Data Visualisation
     The Visual Display of Quantitative Information - Edward Tufte (clássico)
