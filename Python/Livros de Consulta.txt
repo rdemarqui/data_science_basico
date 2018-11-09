@@ -29,10 +29,11 @@ Machine Learning
     Python Machine Learning - Sebastian Raschka
     Python for Probability, Statistics, and Machine Learning - Joseé Unpingco
 
+    https://sites.google.com/site/machinelearningnotebook2/
     Real-World Machine Learning (Introdutório/revisão/exemplos práticos)
 
 Notas: Hands-on Machine Learning: Cross-validation, grid search e métodos ensamble. Bagging; Boosting: AdaBoost e Gradient Boosting. 
-Stacking Pipeline (exemplo: NB Multinomial da DSAcademy). Confusion Matrix; Feature Engeneering (Python Data Science Handbook, pg 275). Manifold Learning (Python Data Science Handbook, pg 445). Redução de dimensionalidade (PCA).
+Stacking Pipeline (exemplo: NB Multinomial da DSAcademy). Confusion Matrix; Feature Engeneering (Python Data Science Handbook, pg 275). Manifold Learning (Python Data Science Handbook, pg 445). Redução de dimensionalidade (PCA). Aglomerative hierarchical clustering (Python Machine Learning).
 
 Data Visualisation
     The Visual Display of Quantitative Information - Edward Tufte (clássico)
