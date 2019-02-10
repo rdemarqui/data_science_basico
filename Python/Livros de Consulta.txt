@@ -13,6 +13,8 @@ Análise de Dados
     Python Data Science Handbook - Jake VanderPlas
     Python for Data Analysis, 2Ed - Wes McKinney
     Python Data Analysis - Ivan Idris
+	
+    https://github.com/PacktPublishing/Matplotlib-3.0-Cookbook	
 
     Interactive Applications Using Matplotlib
 
